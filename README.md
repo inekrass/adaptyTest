@@ -11,3 +11,6 @@ npm run dev
 ```
 
 3. Откройте браузер по адресу `http://localhost:5173`
+
+## Deploy
+https://inekrass.github.io/adaptyTest/
